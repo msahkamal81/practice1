@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon Test" duration-ms="14389" started-at="2019-06-28T18:55:58Z" finished-at="2019-06-28T18:56:12Z">
+    <groups>
+    </groups>
+    <test name="Amazon Test" duration-ms="14389" started-at="2019-06-28T18:55:58Z" finished-at="2019-06-28T18:56:12Z">
+      <class name="homepage.TestHomePage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:homepage.TestHomePage@21bcffb5]" name="setUp" is-config="true" duration-ms="12716" started-at="2019-06-28T14:55:58Z" finished-at="2019-06-28T14:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="init()[pri:0, instance:homepage.TestHomePage@21bcffb5]" name="init" is-config="true" duration-ms="1452" started-at="2019-06-28T14:56:11Z" finished-at="2019-06-28T14:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="showLogo()[pri:0, instance:homepage.TestHomePage@21bcffb5]" name="showLogo" duration-ms="104" started-at="2019-06-28T14:56:12Z" finished-at="2019-06-28T14:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showLogo -->
+        <test-method status="PASS" signature="CleanUp()[pri:0, instance:homepage.TestHomePage@21bcffb5]" name="CleanUp" is-config="true" duration-ms="109" started-at="2019-06-28T14:56:12Z" finished-at="2019-06-28T14:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUp -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:homepage.TestHomePage@21bcffb5]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-06-28T14:56:12Z" finished-at="2019-06-28T14:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- homepage.TestHomePage -->
+    </test> <!-- Amazon Test -->
+  </suite> <!-- Amazon Test -->
+</testng-results>
